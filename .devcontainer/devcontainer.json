@@ -1,0 +1,5 @@
+{
+  "name": "puppet-devops-lab",
+  "image": "mcr.microsoft.com/devcontainers/base:jammy",
+  "postCreateCommand": "bash setup.sh"
+}
